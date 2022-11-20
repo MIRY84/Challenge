@@ -30,7 +30,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+Assets/01-html-css-git-challenge-demo.png
 
 
 
