@@ -12,7 +12,7 @@ I have changed the website through enhancing accessible criterias:
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-### Credits:
+## Credits:
 
 * https://www.w3schools.com/html/html5_semantic_elements.asp
 * https://www.w3schools.com/tags/att_img_alt.asp
@@ -21,11 +21,8 @@ I have changed the website through enhancing accessible criterias:
 
 ## Licence
 
-MIT lICENCE
+MIT LICENCE
 
+## Badges
 
-
-
-
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+N/A
