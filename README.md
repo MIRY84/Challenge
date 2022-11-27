@@ -21,7 +21,11 @@ I have changed the website through enhancing accessible criterias:
 
 ## Licence
 
-MIT lICENCE
+MIT LICENCE
+
+## Badges
+
+N/A
 
 
 
