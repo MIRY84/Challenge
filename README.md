@@ -12,6 +12,11 @@ I have changed the website through enhancing accessible criterias:
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
+
+
+
+
+
 ### Credits:
 
 * https://www.w3schools.com/html/html5_semantic_elements.asp
